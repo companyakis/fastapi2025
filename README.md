@@ -1,2 +1,3 @@
 # fastapi2025
-FastAPI 2025
+
+FastAPI and full stack AI will be here...
